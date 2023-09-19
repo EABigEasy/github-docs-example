@@ -44,7 +44,7 @@ puts greet("Alice") # Outputs: "Hello, Alice!"
 ```
 ### Sample of links
 
-[Secret Window Hidden Garden](secret_window/hidden-garden.md).
+- [Secret Window Hidden Garden](secret_window/hidden_garden.md).
 
 ## References
 
