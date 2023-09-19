@@ -42,6 +42,10 @@ puts greet("Alice") # Outputs: "Hello, Alice!"
 |CLoud with Lighing | `:cloud_with_ligthing'| `🌩️ |
 
 ```
+### Sample of links
+
+[Secret Window Hidden Garden](secret_window/hidden-garden.md).
+
 ## References
 
 - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/).<sup> [1] </sup>
