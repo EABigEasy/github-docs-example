@@ -2,6 +2,11 @@
 
 ### GFM = Github Flavored Markdown
 
+## How to take screenshots
+
+Take a screenshot, A screenshot is when you capture a part of you screen from laptop, desktop or phone.
+
+
 ## Step 1- Using Codeblocks.
 
 Codeblocks in markdown make it *very easy* for tech people to **copy, paste, share** code. A good __Cloud Engineer__ uses Codeblocks whenever possible.
